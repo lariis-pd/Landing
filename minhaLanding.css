@@ -53,12 +53,32 @@ section {
     text-align: center;
 }
 
+#secao3 img{
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
 #secao4 {
     background: #88D498;
+    text-align: center;
+}
+
+#secao4 img{
+    width: 200px;
+    height: auto;
+    margin: 10px;
 }
 
 #secao5{
     background: #FCD12A;
+    text-align: center;
+}
+
+#secao5 img{
+    width: 200px;
+    height: auto;
+    margin: 10px;
 }
 
 footer {
